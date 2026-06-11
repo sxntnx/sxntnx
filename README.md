@@ -42,8 +42,9 @@
 Pipeline ETL end-to-end que transforma un export crudo de +180.000 órdenes (53 columnas) en un **star schema** consultable sobre SQLite. Limpieza de calidad de datos, feature engineering de KPIs operativos (entregas tardías, lead time) y capa de queries analíticas. 100% reproducible.
 `Python · Pandas · SQLite · Modelado dimensional`
 
-**[⚽ Futbol5 Stats](https://github.com/sxntnx/futbol5-stats)** · [🔗 live](https://futbol5-stats.netlify.app)
-App para registrar y visualizar estadísticas de partidos de fútbol 5.
+**[📊 Financial Performance Analysis (2022–2024)](https://github.com/sxntnx/finance-eda-project)**
+Análisis exploratorio (EDA) de los datos financieros de una empresa B2B multirregional a lo largo de 3 años, 4 regiones y 4 categorías de producto. Identifica tendencias de ingresos, drivers de rentabilidad y eficiencias de costos para soportar decisiones estratégicas — con hallazgos como ~12% de crecimiento YoY, estacionalidad de Q4 y oportunidad de expansión en LATAM.
+`Python · Pandas · Matplotlib · Seaborn · Jupyter`
 
 ---
 
